@@ -10,9 +10,9 @@ server_scripts {
 }
 
 files {
-    "html/index.html",
-    "html/script.js",
-    "html/style.css"
+    "index.html",
+    "script.js",
+    "style.css"
 }
 
-ui_page "html/index.html"
+ui_page "index.html"
